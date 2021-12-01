@@ -1,0 +1,2 @@
+# instaler.sh
+Sc bucin
